@@ -11,9 +11,7 @@ import org.springframework.web.bind.annotation.RestController;
 public class HomeController {
 
     @GetMapping(path = "/greet")
-    public String greet(
-        @RequestParam(required=false, defaultValue = "") String name
-    ) {
+    public String greet(@RequestParam(required = false, defaultValue = "") String name) {
         return name.isEmpty() ? "Hey!" : "Hey, " + name;
     }
 
