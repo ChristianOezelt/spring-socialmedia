@@ -1,0 +1,8 @@
+# lists all chapters
+http://localhost:8080/chapters
+
+### health and metrics
+http://localhost:8080/actuator/health
+
+###
+http://localhost:8080/actuator/metrics

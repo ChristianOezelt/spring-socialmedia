@@ -1,0 +1,22 @@
+{
+    "run": [
+        {
+            "name": "socialmedia",
+            "projectName": "socialmedia",
+            "workingDirectory": "c:\\Users\\Christian\\Documents\\GitHub\\spring-socialmedia",
+            "args": [],
+            "vmargs": [],
+            "preLaunchTask": ""
+        }
+    ],
+    "debug": [
+        {
+            "name": "socialmedia",
+            "projectName": "socialmedia",
+            "workingDirectory": "c:\\Users\\Christian\\Documents\\GitHub\\spring-socialmedia",
+            "args": [],
+            "vmargs": [],
+            "preLaunchTask": ""
+        }
+    ]
+}
