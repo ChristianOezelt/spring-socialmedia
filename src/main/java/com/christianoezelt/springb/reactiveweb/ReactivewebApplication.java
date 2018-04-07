@@ -1,12 +1,12 @@
-package at.oezy.sb.socialmedia;
+package com.christianoezelt.springb.reactiveweb;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SocialmediaApplication {
+public class ReactivewebApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SocialmediaApplication.class, args);
+		SpringApplication.run(ReactivewebApplication.class, args);
 	}
 }
